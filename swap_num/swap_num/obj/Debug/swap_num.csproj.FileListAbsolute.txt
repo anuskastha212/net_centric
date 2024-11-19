@@ -1,0 +1,7 @@
+C:\Users\econn\source\net_centric\swap_num\swap_num\bin\Debug\swap_num.exe.config
+C:\Users\econn\source\net_centric\swap_num\swap_num\bin\Debug\swap_num.exe
+C:\Users\econn\source\net_centric\swap_num\swap_num\bin\Debug\swap_num.pdb
+C:\Users\econn\source\net_centric\swap_num\swap_num\obj\Debug\swap_num.csproj.AssemblyReference.cache
+C:\Users\econn\source\net_centric\swap_num\swap_num\obj\Debug\swap_num.csproj.CoreCompileInputs.cache
+C:\Users\econn\source\net_centric\swap_num\swap_num\obj\Debug\swap_num.exe
+C:\Users\econn\source\net_centric\swap_num\swap_num\obj\Debug\swap_num.pdb
