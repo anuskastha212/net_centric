@@ -1,0 +1,7 @@
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\bin\Debug\calenderrr.exe.config
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\bin\Debug\calenderrr.exe
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\bin\Debug\calenderrr.pdb
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\obj\Debug\calenderrr.csproj.AssemblyReference.cache
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\obj\Debug\calenderrr.csproj.CoreCompileInputs.cache
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\obj\Debug\calenderrr.exe
+C:\Users\econn\source\net_centric\calenderrr\calenderrr\obj\Debug\calenderrr.pdb
